@@ -1,0 +1,7 @@
+[user]
+	name = Felipe Cardoso
+	email = felipe12340411@gmail.com
+[init]
+	defautBranch = main
+[core]
+	editor = code --wait		
